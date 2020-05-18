@@ -1,0 +1,11 @@
+{
+  "name": "catbox-open-handle",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/catbox": "^11.1.0",
+    "@hapi/catbox-memory": "^5.0.0",
+    "why-is-node-running": "^2.1.2"
+  }
+}
